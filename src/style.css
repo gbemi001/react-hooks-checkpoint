@@ -1,0 +1,12 @@
+.movieAdd{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.App{
+    background-color: cornflowerblue;
+}
+.movieList{
+    background-color: cornflowerblue;
+
+}
